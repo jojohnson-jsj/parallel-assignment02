@@ -10,11 +10,11 @@ On Linux:
 3. sudo apt update
 4. sudo apt install mono-complete
 5. mcs -out:MinotaurBirthday.exe MinotaurBirthday.cs
-or 
-6.  mcs -out:MinotaurVase.exe MinotaurVase.cs
-7. mono MinotaurBirthday.exe
-or
-7. mono MinotaurVase.exe
+6. or 
+7. mcs -out:MinotaurVase.exe MinotaurVase.cs
+8. mono MinotaurBirthday.exe
+9. or
+10. mono MinotaurVase.exe
 
 
 On Visual Studio:
