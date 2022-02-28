@@ -18,6 +18,5 @@ On Linux:
 
 
 On Visual Studio:
-1. Open the Program.sln file located in the Assignment01 folder
+1. Open the Minotaur1.sln or Minotaur2.sln file
 2. Hit run
-3. The primes.txt file will be in bin\Debug\netcoreapp3.1\primes.txt
