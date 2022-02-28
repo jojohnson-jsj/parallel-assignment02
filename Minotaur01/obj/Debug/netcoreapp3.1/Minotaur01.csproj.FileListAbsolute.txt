@@ -12,3 +12,17 @@ H:\Work\Documents\School\Spring 2022\Parallel\assignment02\Minotaur01\Minotaur01
 H:\Work\Documents\School\Spring 2022\Parallel\assignment02\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.dll
 H:\Work\Documents\School\Spring 2022\Parallel\assignment02\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.pdb
 H:\Work\Documents\School\Spring 2022\Parallel\assignment02\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.genruntimeconfig.cache
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\bin\Debug\netcoreapp3.1\Minotaur01.exe
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\bin\Debug\netcoreapp3.1\Minotaur01.deps.json
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\bin\Debug\netcoreapp3.1\Minotaur01.runtimeconfig.json
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\bin\Debug\netcoreapp3.1\Minotaur01.runtimeconfig.dev.json
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\bin\Debug\netcoreapp3.1\Minotaur01.dll
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\bin\Debug\netcoreapp3.1\Minotaur01.pdb
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.csproj.AssemblyReference.cache
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.GeneratedMSBuildEditorConfig.editorconfig
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.AssemblyInfoInputs.cache
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.AssemblyInfo.cs
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.csproj.CoreCompileInputs.cache
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.dll
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.pdb
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur01\Minotaur01\obj\Debug\netcoreapp3.1\Minotaur01.genruntimeconfig.cache

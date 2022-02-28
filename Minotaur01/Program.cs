@@ -31,7 +31,7 @@ using System.Collections.Generic;
 */
 namespace Minotaur01
 {
-	class Program
+	class MinotaurBirthday
 	{
 		private static Labyrinth maze = new Labyrinth();
 
