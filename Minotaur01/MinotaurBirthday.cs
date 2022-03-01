@@ -123,6 +123,8 @@ namespace Minotaur01
 				Thread guestEntering = threadDictionary[thread];
 				string threadName = guestEntering.Name;
 
+				Thread.Sleep(50);
+
 				// The guest this thread corresponds to enters the labyrinth.
 				guestEntering.Start(thread);
 
