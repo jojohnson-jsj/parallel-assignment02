@@ -123,7 +123,7 @@ namespace Minotaur01
 				Thread guestEntering = threadDictionary[thread];
 				string threadName = guestEntering.Name;
 
-				Thread.Sleep(50);
+				Thread.Sleep(10);
 
 				// The guest this thread corresponds to enters the labyrinth.
 				guestEntering.Start(thread);
@@ -168,6 +168,9 @@ namespace Minotaur01
 		// time accordingly.
 		static void EnterLabyrinth(object cur_thread)
 		{
+			if (maze.AllGuestsEntered)
+				return;
+
 			mutexLock.WaitOne();
 
 			Console.WriteLine("\n" + Thread.CurrentThread.Name + " has entered the labyrinth");
