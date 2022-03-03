@@ -1,0 +1,14 @@
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\bin\Debug\netcoreapp3.1\Minotaur02.exe
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\bin\Debug\netcoreapp3.1\Minotaur02.deps.json
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\bin\Debug\netcoreapp3.1\Minotaur02.runtimeconfig.json
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\bin\Debug\netcoreapp3.1\Minotaur02.runtimeconfig.dev.json
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\bin\Debug\netcoreapp3.1\Minotaur02.dll
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\bin\Debug\netcoreapp3.1\Minotaur02.pdb
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\obj\Debug\netcoreapp3.1\Minotaur02.csproj.AssemblyReference.cache
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\obj\Debug\netcoreapp3.1\Minotaur02.GeneratedMSBuildEditorConfig.editorconfig
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\obj\Debug\netcoreapp3.1\Minotaur02.AssemblyInfoInputs.cache
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\obj\Debug\netcoreapp3.1\Minotaur02.AssemblyInfo.cs
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\obj\Debug\netcoreapp3.1\Minotaur02.csproj.CoreCompileInputs.cache
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\obj\Debug\netcoreapp3.1\Minotaur02.dll
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\obj\Debug\netcoreapp3.1\Minotaur02.pdb
+H:\Work\Documents\School\Spring 2022\Parallel\assignment02-submission\Minotaur02\Minotaur02\obj\Debug\netcoreapp3.1\Minotaur02.genruntimeconfig.cache
